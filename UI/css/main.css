@@ -1487,7 +1487,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   top: 0;
   left: 0;
   cursor: pointer;
-  border: 2px solid transparent;
+  border: 4px solid transparent;
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   -moz-transition: all 0.4s;
@@ -1499,7 +1499,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 }
 
 .slick3-dots .slick-active .slick3-dot-overlay {
-  border-color: #ccc;
+  border-color: #717fe0;
 }
 
 
@@ -2128,11 +2128,11 @@ input.num-product::-webkit-inner-spin-button {
 ==================================================================*/
 .cl0 {color: #fff;}
 .cl1 {color: #717fe0;}
-.cl2 {color: #333;}
+.cl2 {color: black;}
 .cl3 {color: #666;}
 .cl4 {color: #999;}
 .cl5 {color: #222;}
-.cl6 {color: #888;}
+.cl6 {color: black;}
 .cl7 {color: #b2b2b2;}
 .cl8 {color: #555;}
 .cl9 {color: #aaa;}
@@ -2194,7 +2194,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .stext-109 {
   font-family: Poppins-SemiBold;
-  font-size: 12px;
+  font-size: 16px;
   line-height: 1.833333;
 }
 
@@ -2205,7 +2205,7 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 .stext-111 {
-  font-family: Poppins-Regular;
+  font-family: lato;
   font-size: 13px;
   line-height: 1.6923;
 }
@@ -2218,13 +2218,13 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 .stext-113 {
-  font-family: Poppins-Light;
-  font-size: 14px;
+  font-family: lato;
+  font-size: 18px;
   line-height: 1.7857;
 }
 
 .stext-114 {
-  font-family: Poppins-Italic;
+  font-family: lato;
   font-size: 15px;
   line-height: 1.666667;
 }
@@ -2322,7 +2322,7 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 .mtext-111 {
-  font-family: Poppins-Bold;
+  font-family: 'Lucida', serif;
   font-size: 25px;
   line-height: 1.2;
 }
@@ -2749,7 +2749,7 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 .bor16 {
-  border-left: 3px solid #e6e6e6;
+  border-left: 3px solid #fdbb00;
 }
 
 .bor17 {
@@ -3013,7 +3013,7 @@ input.num-product::-webkit-inner-spin-button {
   z-index: -1;
   width: 100%;
   height: 100%;
-  border: 3px solid #ccc;
+  border: 3px solid #fdbb00;
 }
 
 .how-bor1::before {
